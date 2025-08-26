@@ -1,6 +1,4 @@
 rencana 2025
 
-
-yang penting konsisten
-google veo 3
-gemini ai
+belajar ai
+belajar git dan github
